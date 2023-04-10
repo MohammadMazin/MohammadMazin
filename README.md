@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MohammadMazin/MohammadMazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack web and mobile developer, learning how to create visually appealing websites that feel 'alive' and exploring the Open Source World
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadMazin&show_icons=true&theme=dracula)
+
+
+(PS: This section is still under construction - as shown by the loading icon without a transparent background)
+![Alt Text](https://loading.io/mod/spinner/spinner/sample.gif)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
