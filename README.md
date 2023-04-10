@@ -6,6 +6,7 @@ Fullstack web and mobile developer, learning how to create visually appealing we
 
 
 (PS: This section is still under construction - as shown by the loading icon without a transparent background)
+
 ![Alt Text](https://loading.io/mod/spinner/spinner/sample.gif)
 
 <!--
